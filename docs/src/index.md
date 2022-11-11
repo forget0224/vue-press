@@ -1,15 +1,15 @@
 ---
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: 
+tagline: Web前端之家
 actionText: Quick Start →
 actionLink: /guide/
 features:
-- title: Feature 1 Title
+- title: 本地端異常
   details: Feature 1 Description
-- title: Feature 2 Title
+- title: 筆記規範
   details: Feature 2 Description
-- title: Feature 3 Title
+- title: 修改需求
   details: Feature 3 Description
-footer: Made by  with ❤️
+footer: Made by Jocelyn  with ❤️
 ---
